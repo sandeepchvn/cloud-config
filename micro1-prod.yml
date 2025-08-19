@@ -2,7 +2,7 @@ build:
   version: "1777.0"
 
 micro1:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}bc06b9eecb7feda6c37fea5ec06c73bcd639d7470102419f2e5d10b502649d86a45e33a5afaac354340a39b6f10c3302"
